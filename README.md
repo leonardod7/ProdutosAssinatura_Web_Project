@@ -14,9 +14,8 @@
 
 
 <div>
-  <img width="1645" alt="Produto Assinatura" src="">
+  <img width="1645" alt="Assinatura" src="https://github.com/leonardod7/ProdutosAssinatura_Web_Project/assets/107505958/67034158-5ac6-4211-b3fc-74a71d5f3681">
 </div>
-
 
 
 *******
